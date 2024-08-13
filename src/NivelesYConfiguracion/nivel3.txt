@@ -1,0 +1,9 @@
+r-r-g-r-g-v-o
+r-r-o-b-v-r-o
+y-b-v-v-m-m-r
+m-o-o-y-y-o-g
+o-g-r-o-y-r-r
+m-r-b-m-o-y-g
+v-v-r-y-y-b-y
+
+//colores g = verde, o = naranja, y = amarillo , b = azul, r = rojo, v = violeta , m = merengue
